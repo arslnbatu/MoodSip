@@ -1,7 +1,7 @@
 # MoodSip Privacy Policy
 
-**Effective Date:** [Current Date]  
-**Last Updated:** [Current Date]
+**Effective Date:** [4.10.2025] 
+**Last Updated:** [4.10.2025]
 
 ## Introduction
 
@@ -96,9 +96,8 @@ Our app is suitable for users of all ages. We do not knowingly collect personal 
 ### Questions or Concerns
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
 
-- **Email**: [Your Email Address]
+- **Email**: [arslnbatu@gmail.com]
 - **App Support**: Through the app's settings menu
-- **Website**: [Your Website URL]
 
 ## Legal Compliance
 
